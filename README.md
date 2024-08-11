@@ -29,3 +29,8 @@
 
 
  - keyError -> matlab dictionary iss naam ki koi key nahi hai
+
+
+ # Internal working of python
+
+ <img src = "./01_basics/items/"></img>

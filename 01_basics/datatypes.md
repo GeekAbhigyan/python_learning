@@ -34,6 +34,8 @@
 
 - Meta Programming : OOP, DSA
 
+<img src="./01_basics/items/datatypes.png" alt = "datatypes"></img>
+
 ##
 
 - what is the difference between list and tuples ?
